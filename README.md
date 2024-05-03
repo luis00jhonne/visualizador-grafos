@@ -24,4 +24,4 @@ Graphviz: https://graphviz.org/
 Suporte Graphviz para java: https://github.com/jamisonjiang/graph-support
 
 Contato:
-![Luis Jhonne](https://www.linkedin.com/in/luis-jhonne-carvalhal/)
+[Perfil Linkedin](https://www.linkedin.com/in/luis-jhonne-carvalhal/)
